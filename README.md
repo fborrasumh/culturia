@@ -4,6 +4,8 @@ Publicidad internacional adaptada a cada cultura con el modelo de Hofstede. Apli
 
 **Usar la app:** https://fborrasumh.github.io/culturia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23460349.svg)](https://doi.org/10.5281/zenodo.23460349)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Origen de la idea
@@ -62,7 +64,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Kanther, A. (2026). *CulturIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Kanther, A. (2026). *CulturIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23460349](https://doi.org/10.5281/zenodo.23460349)
 
 ## Licencia
 
